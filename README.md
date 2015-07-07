@@ -1,6 +1,6 @@
 # png-example
 
-![screenshot](images/rectangle.png)
+![screenshot](https://raw.githubusercontent.com/clach04/png-example/master/resources/images/rectangle.png)
 
 
 Simple example appfrom https://github.com/pebble-hacks/png-example modified
