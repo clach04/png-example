@@ -1,27 +1,31 @@
 {
-  "uuid": "dd9a7bfa-7d6b-4236-ba81-9a2eeefc3186",
-  "shortName": "PNG Example",
-  "longName": "PNG Example",
-  "companyName": "MakeAwesomeHappen",
-  "versionCode": 1,
-  "versionLabel": "1.0",
-  "watchapp": {
-    "watchface": false
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "targetPlatforms": [
-    "aplite", "basalt"
-  ],
-  "sdkVersion": "3",
-  "resources": {
-    "media": [
-      {
-        "type":"png",
-        "name":"GLOBE",
-        "file":"images/globe.png"
-      }
-    ]
-  }
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "PNG Example",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/rectangle.png",
+                "name": "BG_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PNG Example",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "dd9a7bfa-7d6b-4236-ba81-9a2eeefc3186",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
 }
